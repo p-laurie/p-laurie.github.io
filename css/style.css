@@ -1,0 +1,11 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Fredoka', sans-serif; 
+    background-color: #000 !important;
+}
+
+.banner-image {
+    background-size: cover;
+}
